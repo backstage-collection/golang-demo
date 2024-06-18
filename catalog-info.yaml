@@ -11,4 +11,4 @@ spec:
   type: api
   system: system:default/examples
   lifecycle: production
-  owner: group:default/guests
+  owner: group:default/developers
